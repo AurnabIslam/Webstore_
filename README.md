@@ -1,6 +1,9 @@
 ## Website functions
  It lets you creat a user account through which you post ads for sale for differnt products according to their categories.
-User the site please first create a account then post to see your products and you can also remove your only when you're logged in.  
+User the site please first create a account then post to see your products and you can also remove your only when you're logged in. 
+
+A website similiar to kijiji or flipcart. 
+But  a minimized version.
 
 
 
